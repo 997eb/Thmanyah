@@ -1,0 +1,16 @@
+PODS:
+  - EFCountingLabel (5.1.4)
+
+DEPENDENCIES:
+  - EFCountingLabel
+
+SPEC REPOS:
+  trunk:
+    - EFCountingLabel
+
+SPEC CHECKSUMS:
+  EFCountingLabel: 210620994a2d54759f53034b5bda4642255969c7
+
+PODFILE CHECKSUM: c0c1dca49288530546ab9f9a87b21562d2137490
+
+COCOAPODS: 1.11.2
